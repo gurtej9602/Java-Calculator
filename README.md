@@ -7,3 +7,10 @@ A simple and interactive calculator built using Java with a graphical user inter
 * Easier to understand the code 
 # Screenshot
 ![image](https://github.com/user-attachments/assets/89327d52-9bb2-4c3a-9160-a3b32e74bb22)
+# Installation
+### Using command line
+To run the calculator on your local machine, follow these steps:
+1. Clone the repository:
+  ```bash
+
+
